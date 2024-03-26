@@ -1,0 +1,23 @@
+
+body{
+    padding: 20px;
+}
+.tabs{
+    display: flex;
+    gap: 5px;
+}
+
+
+.tab{
+    padding: 12px 22px;
+    background-color: #f8f8f8;
+    border: 2px solid rgb(108, 108, 108);
+    border-radius: 5px;
+    font-weight: 700;
+}
+
+h3{
+    display: none;
+    padding: 20px;
+    /* width: 50%; */
+}
